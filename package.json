@@ -8,7 +8,7 @@
     ]
   },
   "devDependencies": {
-    "@redwoodjs/core": "git@github.com:virtuoushub/redwood#192bfd07385ef4e6713af851ef6ab3d56ef93779"
+    "@redwoodjs/core": "https://github.com/virtuoushub/redwood#192bfd07385ef4e6713af851ef6ab3d56ef93779"
   },
   "eslintConfig": {
     "extends": "@redwoodjs/eslint-config",
